@@ -1,0 +1,3 @@
+https://www.arduinolibraries.info/libraries/adafruit-ssd1306
+
+https://www.arduinolibraries.info/libraries/adafruit-gfx-library
