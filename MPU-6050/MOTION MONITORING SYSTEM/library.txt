@@ -1,0 +1,6 @@
+LiquidCrystal I2C
+https://www.arduinolibraries.info/libraries/liquid-crystal-i2-c
+
+MPU6050
+https://www.arduinolibraries.info/libraries/mpu6050
+
